@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>티니핑 이미지 효과 목업</title>
+<style>
+  body { font-family: -apple-system, sans-serif; background: #FFF0F5; margin: 0; padding: 20px; }
+  h1 { text-align: center; color: #FF6B9D; }
+  h2 { color: #333; border-bottom: 2px solid #FF6B9D; padding-bottom: 8px; }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 40px; }
+  .card { background: white; border-radius: 16px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center; }
+  .card img { width: 100%; border-radius: 12px; }
+  .card .label { margin-top: 8px; font-weight: bold; font-size: 14px; color: #555; }
+  .card .difficulty { font-size: 12px; color: #FF6B9D; margin-top: 4px; }
+  table { width: 100%; border-collapse: collapse; margin: 20px 0; background: white; border-radius: 12px; overflow: hidden; }
+  th, td { padding: 12px 16px; text-align: center; border-bottom: 1px solid #eee; }
+  th { background: #FF6B9D; color: white; }
+  @media (max-width: 600px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+</style>
+</head>
+<body>
+<h1>🎀 티니핑 이미지 효과 목업</h1>
+<p style="text-align:center;color:#777">난이도별 이미지 처리 효과 비교 — 퀴즈에 어떤 효과를 적용할지 결정하기 위한 샘플</p>
+
+<table>
+  <tr><th>효과</th><th>식별도</th><th>저작권 리스크</th><th>퀴즈 난이도</th><th>비용</th></tr>
+  <tr><td>원본</td><td>즉시 인식</td><td>⚠️ 높음</td><td>⭐ 쉬움</td><td>0원</td></tr>
+  <tr><td>블러</td><td>색감+윤곽 유추</td><td>🔶 중간</td><td>⭐⭐ 보통</td><td>0원</td></tr>
+  <tr><td>모자이크</td><td>색 배치 유추</td><td>🔶 중간</td><td>⭐⭐ 보통~어려움</td><td>0원</td></tr>
+  <tr><td>실루엣</td><td>윤곽만</td><td>✅ 낮음</td><td>⭐⭐⭐ 어려움</td><td>0원</td></tr>
+</table>
+
+<h2>하츄핑 (Heartsping) — 1기 로열</h2>
+<div class="grid">
+  <div class="card"><img src="heartsping_1_original.png"><div class="label">원본</div><div class="difficulty">⭐ 쉬움</div></div>
+  <div class="card"><img src="heartsping_2_blur.png"><div class="label">블러</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="heartsping_3_mosaic.png"><div class="label">모자이크</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="heartsping_4_silhouette.png"><div class="label">실루엣</div><div class="difficulty">⭐⭐⭐ 어려움</div></div>
+</div>
+
+<h2>응원핑 (Cheerupping) — 6기</h2>
+<div class="grid">
+  <div class="card"><img src="cheerupping_1_original.png"><div class="label">원본</div><div class="difficulty">⭐ 쉬움</div></div>
+  <div class="card"><img src="cheerupping_2_blur.png"><div class="label">블러</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="cheerupping_3_mosaic.png"><div class="label">모자이크</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="cheerupping_4_silhouette.png"><div class="label">실루엣</div><div class="difficulty">⭐⭐⭐ 어려움</div></div>
+</div>
+
+<h2>멍핑 (Blankping) — 1기</h2>
+<div class="grid">
+  <div class="card"><img src="blankping_1_original.png"><div class="label">원본</div><div class="difficulty">⭐ 쉬움</div></div>
+  <div class="card"><img src="blankping_2_blur.png"><div class="label">블러</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="blankping_3_mosaic.png"><div class="label">모자이크</div><div class="difficulty">⭐⭐ 보통</div></div>
+  <div class="card"><img src="blankping_4_silhouette.png"><div class="label">실루엣</div><div class="difficulty">⭐⭐⭐ 어려움</div></div>
+</div>
+
+</body>
+</html>

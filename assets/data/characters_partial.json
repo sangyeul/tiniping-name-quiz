@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "aloneping",
+    "name": "Aloneping",
+    "nameKo": "홀로",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "aloneping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/f/f6/Aloneping_Render_1.png/revision/latest?cb=20260126064927"
+  },
+  {
+    "id": "artping",
+    "name": "Artping",
+    "nameKo": "그림",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "artping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/5/5e/Artping_Render_1.png/revision/latest?cb=20260126072614"
+  },
+  {
+    "id": "curieping",
+    "name": "Curieping",
+    "nameKo": "모야핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "curieping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "egoping",
+    "name": "Egoping",
+    "nameKo": "앙앙",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "egoping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "floraping",
+    "name": "Floraping",
+    "nameKo": "플라핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "royal",
+    "imageFile": "floraping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "goodping",
+    "name": "Goodping",
+    "nameKo": "차캐핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "goodping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "happying",
+    "name": "Happying",
+    "nameKo": "해핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "royal",
+    "imageFile": "happying.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "heartsping",
+    "name": "Heartsping",
+    "nameKo": "하츄핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "royal",
+    "imageFile": "heartsping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "heavyping",
+    "name": "Heavyping",
+    "nameKo": "무거핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "heavyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "kikiping",
+    "name": "Kikiping",
+    "nameKo": "키키핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "kikiping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "lalaping",
+    "name": "Lalaping",
+    "nameKo": "라라핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "royal",
+    "imageFile": "lalaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "luvping",
+    "name": "Luvping",
+    "nameKo": "바네핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "luvping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "narrping",
+    "name": "Narrping",
+    "nameKo": "나르핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "narrping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "nonoping",
+    "name": "Nonoping",
+    "nameKo": "시러핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "nonoping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "noraping",
+    "name": "Noraping",
+    "nameKo": "노라핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "noraping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "oppoping",
+    "name": "Oppoping",
+    "nameKo": "꺼꿀",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "oppoping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "roarping",
+    "name": "Roarping",
+    "nameKo": "화나핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "roarping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sighping",
+    "name": "Sighping",
+    "nameKo": "아휴핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "sighping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sleeping",
+    "name": "Sleeping",
+    "nameKo": "코자핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "sleeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sparkping",
+    "name": "Sparkping",
+    "nameKo": "찌릿핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "sparkping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "spookping",
+    "name": "Spookping",
+    "nameKo": "무셔",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "spookping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "toyping",
+    "name": "Toyping",
+    "nameKo": "토이핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "toyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "tweetping",
+    "name": "Tweetping",
+    "nameKo": "떠벌핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "tweetping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "wannabeping",
+    "name": "Wannabeping",
+    "nameKo": "또까핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "wannabeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "weeping",
+    "name": "Weeping",
+    "nameKo": "주르핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "weeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "zipping",
+    "name": "Zipping",
+    "nameKo": "씽씽핑",
+    "season": 1,
+    "category": "emotion",
+    "grade": "normal",
+    "imageFile": "zipping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "joahping",
+    "name": "Joahping",
+    "nameKo": "조아핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "joahping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "ladyping",
+    "name": "Ladyping",
+    "nameKo": "공쥬핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "ladyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "memoping",
+    "name": "Memoping",
+    "nameKo": "메모핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "memoping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "onlyping",
+    "name": "Onlyping",
+    "nameKo": "다해핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "onlyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "owwping",
+    "name": "Owwping",
+    "nameKo": "아야핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "owwping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "patping",
+    "name": "Patping",
+    "nameKo": "토닥핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "patping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "teeheeping",
+    "name": "Teeheeping",
+    "nameKo": "방글핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "teeheeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "tickleping",
+    "name": "Tickleping",
+    "nameKo": "까르핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "tickleping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "tidyping",
+    "name": "Tidyping",
+    "nameKo": "싹싹핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "tidyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "timidping",
+    "name": "Timidping",
+    "nameKo": "쪼꼼핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "timidping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "trustping",
+    "name": "Trustping",
+    "nameKo": "믿어핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "royal",
+    "imageFile": "trustping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "wishping",
+    "name": "Wishping",
+    "nameKo": "소원핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "wishping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "wonderping",
+    "name": "Wonderping",
+    "nameKo": "원더",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "wonderping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "yummyping",
+    "name": "Yummyping",
+    "nameKo": "맛나핑",
+    "season": 2,
+    "category": "jewel",
+    "grade": "normal",
+    "imageFile": "yummyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "ariaping",
+    "name": "Ariaping",
+    "nameKo": "아아",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "ariaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/3/35/Ariaping_Render_1.png/revision/latest?cb=20260126073855"
+  },
+  {
+    "id": "cureping",
+    "name": "Cureping",
+    "nameKo": "삐뽀",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "cureping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "fashionping",
+    "name": "Fashionping",
+    "nameKo": "패션",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "fashionping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "handyping",
+    "name": "Handyping",
+    "nameKo": "고쳐",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "handyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "hotping",
+    "name": "Hotping",
+    "nameKo": "뜨거",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "hotping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "huffyping",
+    "name": "Huffyping",
+    "nameKo": "삐짐",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "huffyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "hurryping",
+    "name": "Hurryping",
+    "nameKo": "빨리",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "hurryping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "justiceping",
+    "name": "Justiceping",
+    "nameKo": "꼼딱",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "justiceping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "luckyping",
+    "name": "Luckyping",
+    "nameKo": "행운핑",
+    "season": 3,
+    "category": "key",
+    "grade": "legend",
+    "imageFile": "luckyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "nursepings",
+    "name": "Nursepings",
+    "nameKo": "간호핑들",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "nursepings.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/a/a9/Blue_Nurseping_Render_1.png/revision/latest?cb=20260210214620"
+  },
+  {
+    "id": "okeydokeyping",
+    "name": "Okeydokeyping",
+    "nameKo": "꾸래핑",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "okeydokeyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "trueping",
+    "name": "Trueping",
+    "nameKo": "솔찌핑",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "trueping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "wizping",
+    "name": "Wizping",
+    "nameKo": "아라",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "wizping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "yumyumping",
+    "name": "Yumyumping",
+    "nameKo": "얌얌",
+    "season": 3,
+    "category": "key",
+    "grade": "normal",
+    "imageFile": "yumyumping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "candyping",
+    "name": "Candyping",
+    "nameKo": "캔디핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "candyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9e/Candyping_Render_1.png/revision/latest?cb=20260127045618"
+  },
+  {
+    "id": "chocoping",
+    "name": "Chocoping",
+    "nameKo": "쪼꼬핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "chocoping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "cupping",
+    "name": "Cupping",
+    "nameKo": "커핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "cupping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "donutping",
+    "name": "Donutping",
+    "nameKo": "또너핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "donutping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "fluffyping",
+    "name": "Fluffyping",
+    "nameKo": "포실핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "royal",
+    "imageFile": "fluffyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "iceflakeping",
+    "name": "Iceflakeping",
+    "nameKo": "눈꽃핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "iceflakeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "jellyping",
+    "name": "Jellyping",
+    "nameKo": "말랑핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "jellyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "lolliping",
+    "name": "Lolliping",
+    "nameKo": "롤리핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "lolliping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "macaping",
+    "name": "Macaping",
+    "nameKo": "마카핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "macaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "mallowping",
+    "name": "Mallowping",
+    "nameKo": "멜로핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "mallowping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "meringueping",
+    "name": "Meringueping",
+    "nameKo": "머랭핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "meringueping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "muffping",
+    "name": "Muffping",
+    "nameKo": "머핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "muffping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "pancakeping",
+    "name": "Pancakeping",
+    "nameKo": "핫케핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "pancakeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "puddingping",
+    "name": "Puddingping",
+    "nameKo": "푸딩핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "puddingping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "puffping",
+    "name": "Puffping",
+    "nameKo": "뿌뿌핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "puffping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sandping",
+    "name": "Sandping",
+    "nameKo": "샌드핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "sandping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "shashaping",
+    "name": "Shashaping",
+    "nameKo": "샤샤핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "royal",
+    "imageFile": "shashaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sweetping",
+    "name": "Sweetping",
+    "nameKo": "달콤핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "legend",
+    "imageFile": "sweetping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "tangyping",
+    "name": "Tangyping",
+    "nameKo": "새콤핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "tangyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "waffleping",
+    "name": "Waffleping",
+    "nameKo": "와플핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "waffleping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "yogurtping",
+    "name": "Yogurtping",
+    "nameKo": "요거핑",
+    "season": 4,
+    "category": "dessert",
+    "grade": "normal",
+    "imageFile": "yogurtping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "allureping",
+    "name": "Allureping",
+    "nameKo": "여우핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "allureping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/66/Allureping_Render_1.png/revision/latest?cb=20260126065709"
+  },
+  {
+    "id": "auroraping",
+    "name": "Auroraping",
+    "nameKo": "오로라핑",
+    "season": 5,
+    "category": "star",
+    "grade": "legend",
+    "imageFile": "auroraping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1f/Auroraping_Without_Wings_Render_1.png/revision/latest?cb=20260126050509"
+  },
+  {
+    "id": "bellaping",
+    "name": "Bellaping",
+    "nameKo": "다롱핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "bellaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c7/Bellaping_Render_1.png/revision/latest?cb=20260126091557"
+  },
+  {
+    "id": "dazzleping",
+    "name": "Dazzleping",
+    "nameKo": "고고핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "dazzleping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "dingdongping",
+    "name": "Dingdongping",
+    "nameKo": "딩동핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "dingdongping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "doremiping",
+    "name": "Doremiping",
+    "nameKo": "루루핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "doremiping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "ellaping",
+    "name": "Ellaping",
+    "nameKo": "아롱핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "ellaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "giverping",
+    "name": "Giverping",
+    "nameKo": "나눔핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "giverping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "hopping",
+    "name": "Hopping",
+    "nameKo": "깡총핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "hopping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "hulaping",
+    "name": "Hulaping",
+    "nameKo": "훌라핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "hulaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "kissyping",
+    "name": "Kissyping",
+    "nameKo": "뽀뽀핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "kissyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "lucyping",
+    "name": "Lucyping",
+    "nameKo": "유리핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "lucyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "mightyping",
+    "name": "Mightyping",
+    "nameKo": "고마핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "mightyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "petitping",
+    "name": "Petitping",
+    "nameKo": "나그네핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "petitping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "princeping",
+    "name": "Princeping",
+    "nameKo": "왕자핑",
+    "season": 5,
+    "category": "star",
+    "grade": "royal",
+    "imageFile": "princeping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "shimmerping",
+    "name": "Shimmerping",
+    "nameKo": "빛나핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "shimmerping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sneakyping",
+    "name": "Sneakyping",
+    "nameKo": "몰래핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "sneakyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "snuggyping",
+    "name": "Snuggyping",
+    "nameKo": "뽀송핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "snuggyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "sparkleping",
+    "name": "Sparkleping",
+    "nameKo": "초롱핑",
+    "season": 5,
+    "category": "star",
+    "grade": "royal",
+    "imageFile": "sparkleping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "stickerping",
+    "name": "Stickerping",
+    "nameKo": "뿌쵸핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "stickerping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "swayping",
+    "name": "Swayping",
+    "nameKo": "댄스핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "swayping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "togetherping",
+    "name": "Togetherping",
+    "nameKo": "함께핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "togetherping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "twinkleping",
+    "name": "Twinkleping",
+    "nameKo": "빤짝핑",
+    "season": 5,
+    "category": "star",
+    "grade": "normal",
+    "imageFile": "twinkleping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "bonnyping",
+    "name": "Bonnyping",
+    "nameKo": "뽀니핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "bonnyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "charmingping",
+    "name": "Charmingping",
+    "nameKo": "차밍핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "charmingping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "claireping",
+    "name": "Claireping",
+    "nameKo": "아름핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "claireping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "cupidping",
+    "name": "Cupidping",
+    "nameKo": "큐핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "cupidping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/60/Cupidping_Render_1.png/revision/latest?cb=20251028085308"
+  },
+  {
+    "id": "dewping",
+    "name": "Dewping",
+    "nameKo": "이슬핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "dewping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "dianaping",
+    "name": "Dianaping",
+    "nameKo": "다이아나핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "legend",
+    "imageFile": "dianaping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1d/Cureping_Render_1.png/revision/latest?cb=20251007103418"
+  },
+  {
+    "id": "dozyping",
+    "name": "Dozyping",
+    "nameKo": "쿨쿨핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "dozyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "eclipseping",
+    "name": "Eclipseping",
+    "nameKo": "이클립스핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "legend",
+    "imageFile": "eclipseping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1d/Cureping_Render_1.png/revision/latest?cb=20251007103418"
+  },
+  {
+    "id": "flitterping",
+    "name": "Flitterping",
+    "nameKo": "나비핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "flitterping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "glossyping",
+    "name": "Glossyping",
+    "nameKo": "롱롱핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "glossyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "graceping",
+    "name": "Graceping",
+    "nameKo": "사뿐핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "royal",
+    "imageFile": "graceping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest?cb=20260306184420"
+  },
+  {
+    "id": "kittyping",
+    "name": "Kittyping",
+    "nameKo": "야옹핑",
+    "season": 6,
+    "category": "princess",
+    "grade": "normal",
+    "imageFile": "kittyping.webp",
+    "imageUrl": "https://static.wikia.nocookie.net/catchteeniepin/images/1/13/Kittyping_Render_1.png/revision/latest?cb=20260215050734"
+  }
+]
