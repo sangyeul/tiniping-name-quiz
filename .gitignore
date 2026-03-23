@@ -3,6 +3,9 @@
 .claude/
 .env
 
+# Design assets (large generated images)
+design_asset/raw/
+
 # Miscellaneous
 *.class
 *.log
