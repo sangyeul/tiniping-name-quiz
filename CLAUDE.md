@@ -35,6 +35,14 @@
 - 데이터 소스: Fandom Wiki (catchteenieping.fandom.com)
 - 수집 방식: Python + MediaWiki API 자동 수집 (PRD 7절 참조)
 
+## 디자인 에셋 현황
+
+- 상세 계획: `design_asset/PLAN.md`
+- 프롬프트: `design_asset/prompts/asset-prompts.md`
+- 총 13장 (아이콘 1 + 스플래시 1 + 스크린샷 5 + 피처 1 + AdMob 5)
+- 핵심(아이콘/스플래시): Imagen 4 수동 → 피그마 가공
+- 반복(스크린샷/AdMob): Nano Banana API 자동 → Pillow 후처리
+
 ## Notion
 
 - 페이지 ID: `3291624703fe809a9934c873b1b3b3ef`
